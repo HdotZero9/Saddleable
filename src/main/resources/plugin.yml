@@ -1,0 +1,11 @@
+name: Saddleable
+version: 1.0
+main: com.saddleable.SaddleablePlugin
+api-version: '1.21'
+commands:
+  recipe:
+    description: "Display crafting recipe for an item"
+    usage: "/recipe <item>"
+  saddleables:
+    description: "Saddleables main command"
+    usage: "/saddleables help"

@@ -1,0 +1,20 @@
+saddle:
+  result: "SADDLE"
+  shape:
+    - "LLL"
+    - "LSL"
+    - "I I"
+  ingredients:
+    L: "LEATHER"
+    S: "STRING"
+    I: "IRON_INGOT"
+
+nametag:
+  result: "NAME_TAG"
+  shape:
+    - "  S"
+    - " P "
+    - "P  "
+  ingredients:
+    S: "STRING"
+    P: "PAPER"
